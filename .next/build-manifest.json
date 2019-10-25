@@ -16,11 +16,11 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/firstParent": [
+    "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/index": [
+    "/start": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]

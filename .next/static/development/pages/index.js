@@ -11,9 +11,12 @@
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 var _jsxFileName = "/Users/taylorpage/Desktop/Emmaus-Project/first-check-in/components/Header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
 var headerStyle = {
   marginTop: "0.5rem",
   color: "gray"
@@ -23,17 +26,24 @@ var Header = function Header() {
   return __jsx("div", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 9
+    },
+    __self: this
+  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
     },
     __self: this
   }, __jsx("p", {
     style: headerStyle,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 11
     },
     __self: this
-  }, "First Check-in"));
+  }, "First Check-in")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
@@ -10846,7 +10856,7 @@ var Index = function Index() {
     },
     __self: this
   }, "Welcome to First Check-in!"), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/firstParent",
+    href: "/start",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -10866,7 +10876,7 @@ var Index = function Index() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!*****************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Ftaylorpage%2FDesktop%2FEmmaus-Project%2Ffirst-check-in%2Fpages%2Findex.js ***!
   \*****************************************************************************************************************************************************/
@@ -10889,5 +10899,5 @@ module.exports = dll_ea92a4d9664833a26066;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

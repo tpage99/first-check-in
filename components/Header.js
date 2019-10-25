@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const headerStyle = {
   marginTop: "0.5rem",
   color: "gray"
@@ -5,7 +7,9 @@ const headerStyle = {
 
 const Header = () => (
   <div>
-    <p style={headerStyle}>First Check-in</p>
+    <Link href="/">
+      <p style={headerStyle}>First Check-in</p>
+    </Link>
   </div>
 );
 
