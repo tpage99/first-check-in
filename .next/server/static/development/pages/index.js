@@ -1960,7 +1960,7 @@ const Index = () => __jsx(_components_MyLayout_js__WEBPACK_IMPORTED_MODULE_2__["
   },
   __self: undefined
 }, "Welcome to First Check-in!"), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/start",
+  href: "/register",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 17
@@ -1973,7 +1973,7 @@ const Index = () => __jsx(_components_MyLayout_js__WEBPACK_IMPORTED_MODULE_2__["
     lineNumber: 18
   },
   __self: undefined
-}, "Start a New Session"))));
+}, "Register Family"))));
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 

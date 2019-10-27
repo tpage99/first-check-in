@@ -10856,7 +10856,7 @@ var Index = function Index() {
     },
     __self: this
   }, "Welcome to First Check-in!"), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/start",
+    href: "/register",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -10869,7 +10869,7 @@ var Index = function Index() {
       lineNumber: 18
     },
     __self: this
-  }, "Start a New Session"))));
+  }, "Register Family"))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);

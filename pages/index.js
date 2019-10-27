@@ -14,8 +14,8 @@ const Index = () => (
   <Layout>
     <section style={{ margin: `auto`, textAlign: `center` }}>
       <h1 style={{ marginTop: `8rem` }}>Welcome to First Check-in!</h1>
-      <Link href="/start">
-        <button style={buttonStyle}>Start a New Session</button>
+      <Link href="/register">
+        <button style={buttonStyle}>Register Family</button>
       </Link>
     </section>
   </Layout>
